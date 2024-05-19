@@ -1,3 +1,4 @@
 [submodule "poultryapp"]
 	path = poultryapp
 	url = https://github.com/BARATHM111/poultryapp.git
+	branch = master
